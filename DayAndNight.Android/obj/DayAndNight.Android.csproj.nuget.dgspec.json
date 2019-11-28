@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight.Android\\DayAndNight.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight.Android\\DayAndNight.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight.Android\\DayAndNight.Android.csproj",
+        "projectName": "DayAndNight.Android",
+        "projectPath": "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight.Android\\DayAndNight.Android.csproj",
+        "packagesPath": "C:\\Users\\kszpy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kszpy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight\\DayAndNight.csproj": {
+                "projectPath": "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight\\DayAndNight.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight\\DayAndNight.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight\\DayAndNight.csproj",
+        "projectName": "DayAndNight",
+        "projectPath": "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight\\DayAndNight.csproj",
+        "packagesPath": "C:\\Users\\kszpy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kszpy\\source\\repos\\DayAndNight\\DayAndNight\\DayAndNight\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kszpy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.Targets": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SkiaSharp.Extended": {
+              "target": "Package",
+              "version": "[1.60.0, )"
+            },
+            "SkiaSharp.Svg": {
+              "target": "Package",
+              "version": "[1.60.0, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.3.0.947036, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[1.3.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

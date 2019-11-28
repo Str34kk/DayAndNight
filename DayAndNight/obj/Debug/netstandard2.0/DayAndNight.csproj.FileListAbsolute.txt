@@ -1,0 +1,16 @@
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\bin\Debug\netstandard2.0\DayAndNight.deps.json
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\bin\Debug\netstandard2.0\DayAndNight.dll
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\bin\Debug\netstandard2.0\ref\DayAndNight.dll
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\bin\Debug\netstandard2.0\DayAndNight.pdb
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\DayAndNight.csprojAssemblyReference.cache
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\TempControl.xaml.g.cs
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\DayAndNight.AssemblyInfoInputs.cache
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\DayAndNight.AssemblyInfo.cs
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\DayAndNight.dll
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\ref\DayAndNight.dll
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\DayAndNight.pdb
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\Themes\DarkTheme.xaml.g.cs
+C:\Users\kszpy\source\repos\DayAndNight\DayAndNight\DayAndNight\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs

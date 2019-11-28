@@ -1,0 +1,206 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "DayAndNight/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "3.0.0",
+          "NETStandard.Library": "2.0.3",
+          "SkiaSharp.Extended": "1.60.0",
+          "SkiaSharp.Svg": "1.60.0",
+          "SkiaSharp.Views.Forms": "1.68.0",
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.3.0.947036",
+          "Xamarin.Forms.PancakeView": "1.3.6"
+        },
+        "runtime": {
+          "DayAndNight.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NETCore.Targets/3.0.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "SkiaSharp/1.68.0": {
+        "runtime": {
+          "lib/netstandard1.3/SkiaSharp.dll": {
+            "assemblyVersion": "1.68.0.0",
+            "fileVersion": "1.68.0.0"
+          }
+        }
+      },
+      "SkiaSharp.Extended/1.60.0": {
+        "dependencies": {
+          "SkiaSharp": "1.68.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SkiaSharp.Extended.dll": {
+            "assemblyVersion": "1.60.0.0",
+            "fileVersion": "1.60.0.0"
+          }
+        }
+      },
+      "SkiaSharp.Svg/1.60.0": {
+        "dependencies": {
+          "SkiaSharp": "1.68.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SkiaSharp.Extended.Svg.dll": {
+            "assemblyVersion": "1.60.0.0",
+            "fileVersion": "1.60.0.0"
+          }
+        }
+      },
+      "SkiaSharp.Views.Forms/1.68.0": {
+        "dependencies": {
+          "SkiaSharp": "1.68.0",
+          "Xamarin.Forms": "4.3.0.947036"
+        },
+        "runtime": {
+          "lib/netstandard1.3/SkiaSharp.Views.Forms.dll": {
+            "assemblyVersion": "1.68.0.0",
+            "fileVersion": "1.68.0.0"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.3.1": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/4.3.0.947036": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.356"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.356"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.356"
+          }
+        }
+      },
+      "Xamarin.Forms.PancakeView/1.3.6": {
+        "dependencies": {
+          "Xamarin.Forms": "4.3.0.947036"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.PancakeView.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DayAndNight/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WOwoFoWQ+/njjM0pKbnkKTBo8q3NphEOtu1zMXbqRoWsI07JSXWSycgN3cdM+NlhkXxH4TNEFtI5Pjm94N6DLw==",
+      "path": "microsoft.netcore.targets/3.0.0",
+      "hashPath": "microsoft.netcore.targets.3.0.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "SkiaSharp/1.68.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ptuxAKk9FiClNnAgWM8hVMCYw/B0hUJWZ8W6efnIAtJmJn/Xl4jvxxDF5WOqfQYCLVzxXw5gvBPVxvTLblFp0g==",
+      "path": "skiasharp/1.68.0",
+      "hashPath": "skiasharp.1.68.0.nupkg.sha512"
+    },
+    "SkiaSharp.Extended/1.60.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aN5NPB9F7JoLnuMR2a3ZcA5WIcgiaalt8W3JgUXzRCQb+Amphx6rIKWwK3uuA0OlVJY8A21Q8m5TqgnMubRniA==",
+      "path": "skiasharp.extended/1.60.0",
+      "hashPath": "skiasharp.extended.1.60.0.nupkg.sha512"
+    },
+    "SkiaSharp.Svg/1.60.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTneyM6mt0w2xCCampFlkO3mGFIwGEJo7L2X3JOdyeMCZDQkyqv7m9kZfA89kLSErXErFnY72TZsryzqTIiT7g==",
+      "path": "skiasharp.svg/1.60.0",
+      "hashPath": "skiasharp.svg.1.60.0.nupkg.sha512"
+    },
+    "SkiaSharp.Views.Forms/1.68.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VqxL96ywOA9HUj1MAEO6yvSzg4Tk03ZHvvxQFhbUKgCodDxk9lIUxmBcssTZ/wYjOUn9R2Lf/VIpDMQZlhVh/A==",
+      "path": "skiasharp.views.forms/1.68.0",
+      "hashPath": "skiasharp.views.forms.1.68.0.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Essentials/1.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+51728AdZ/qtABGvcIaNXgEoL2jAtxAXLHS8PvGCP0pb6n7twBqYpfgkmwHYVgu+U99szgtL+Jot8L+OXorPcA==",
+      "path": "xamarin.essentials/1.3.1",
+      "hashPath": "xamarin.essentials.1.3.1.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.3.0.947036": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oEAwwHfaZesC+VvP07UoctI1DGIgewZlKMr/sHPl/hNMRM6ZfccPgOY19Yw017asj9z7PKXqpDDUbFFOJ2jN4A==",
+      "path": "xamarin.forms/4.3.0.947036",
+      "hashPath": "xamarin.forms.4.3.0.947036.nupkg.sha512"
+    },
+    "Xamarin.Forms.PancakeView/1.3.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XKP+Fu+xyleh5xTX0N4QhPqP+vae3jjlO50qqu3D4vHa7zSb9kzKKs2gS5Lk4YloD8ZD1D/F7Vg9BakPt8VeDA==",
+      "path": "xamarin.forms.pancakeview/1.3.6",
+      "hashPath": "xamarin.forms.pancakeview.1.3.6.nupkg.sha512"
+    }
+  }
+}
